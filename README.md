@@ -15,14 +15,14 @@ A one-page interactive web résumé built for IT 223 (Web Systems and Technologi
 
 ```
 resume/
-├── index.html        # Main HTML file
+├── index.html        
 ├── css/
-│   └── styles.css    # External stylesheet
+│   └── styles.css    
 ├── js/
-│   └── script.js     # External JavaScript file
-├── assets/           # Images and icons (if any)
-├── README.md         # This file
-└── PROMPTS.md        # AI usage log
+│   └── script.js     
+├── assets/           
+├── README.md         
+└── PROMPTS.md        
 ```
 
 ---
