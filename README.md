@@ -6,7 +6,6 @@ A one-page interactive web résumé built for IT 223 (Web Systems and Technologi
 
 ## Live Demo
 
-**GitHub Pages:** *(paste your link here)*
 **Demo Video:** *(paste your YouTube link here)*
 
 ---
