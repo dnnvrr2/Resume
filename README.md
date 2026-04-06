@@ -68,14 +68,6 @@ Nine features implemented:
 
 ---
 
-## How to Run
-
-1. Download or clone the repository
-2. Open `index.html` in Chrome or Firefox
-3. No server or installation required — runs entirely in the browser
-
----
-
 ## Modules Covered
 
 - Module 2: HTML Structure
